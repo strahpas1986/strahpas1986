@@ -15,3 +15,4 @@
 - WebPack
 - Препроцессоры SASS, SCSS
 - ReactJS
+- Git
