@@ -9,3 +9,9 @@
 
 #### Мой технологический стек:
 
+- HTML5
+- CSS3
+- JavaScript
+- WebPack
+- Препроцессоры SASS, SCSS
+- ReactJS
