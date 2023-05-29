@@ -1,4 +1,4 @@
-<h1 align="center">Привет всем, меня зовут target="_blank">Владимир</a> 
+<h1 align="center">Привет всем, меня зовут Владимир</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я начинающий Frontend-разработчик. В данный момент обучаюсь в Я.Практикуме на факультете Веб-разработчик.</h3>
 
